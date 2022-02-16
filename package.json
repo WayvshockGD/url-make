@@ -1,0 +1,12 @@
+{
+  "name": "url-make",
+  "version": "1.0.2",
+  "description": "A zero-dependency package to build urls.",
+  "main": "./index",
+  "types": "./types.d.ts",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "author": "Wayvshock",
+  "license": "MIT"
+}
